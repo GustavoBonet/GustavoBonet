@@ -8,7 +8,7 @@
 - 🎓 Faço faculdade de Sistemas de Informação (2° semestre)
 - 🐍 Comecei com Python em 2018
 - 🌎 Aprendo Javascript na faculdade
-- 💻 E curto bastante programar em Dart  
+- 💻 Mas curto programação mobile
 
 ##
 
@@ -32,4 +32,4 @@
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
 
-![Snake]()
+![Snake animation](https://github.com/GustavoBonet/GustavoBonet/blob/output/github-contribution-grid-snake.svg)
