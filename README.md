@@ -1,6 +1,6 @@
 ### Olá, me chamo Gustavo 👋
 <div>
-  <img align="right" alt="gif-bart" height="185" src="https://media.giphy.com/media/D9ujqMZoTtjAQ/giphy.gif?cid=ecf05e47p343v73g80bmy7dkoyvgf9x8399rgkoz2bh58x1k&rid=giphy.gif&ct=g">
+  <img align="right" alt="gif-bart" height="150" src="https://media.giphy.com/media/D9ujqMZoTtjAQ/giphy.gif?cid=ecf05e47p343v73g80bmy7dkoyvgf9x8399rgkoz2bh58x1k&rid=giphy.gif&ct=g">
 </div> 
 
 - 🔭 Hoje eu trabalho com HelpDesk
