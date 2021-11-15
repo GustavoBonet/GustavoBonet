@@ -18,8 +18,6 @@
 <div style = "display: inline_block"><br>
   <img align="center" alt="Bonet-Py" height="30" width="40" src="https://cdn.svgporn.com/logos/python.svg">
   <img align="center" alt="Bonet-Dart" height="30" width="40" src="https://cdn.svgporn.com/logos/dart.svg">
-  <img align="center" alt="Bonet-Flutter" height="30" width="40" src="https://cdn.svgporn.com/logos/flutter.svg">
-  <img align="center" alt="Bonet-FB" height="30" width="40" src="https://cdn.svgporn.com/logos/firebase.svg">
   <img align="center" alt="Bonet-Js" height="30" width="40" src="https://cdn.svgporn.com/logos/javascript.svg">
   <img align="center" alt="Bonet-Linux" height="30" width="40" src="https://cdn.svgporn.com/logos/ubuntu.svg">
   <img align="center" alt="Bonet-JAVA" height="30" width="40" src="https://cdn.svgporn.com/logos/microsoft-windows.svg">
