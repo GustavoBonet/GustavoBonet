@@ -3,12 +3,12 @@
   <img align="right" alt="gif-bart" height="150" src="https://media.giphy.com/media/D9ujqMZoTtjAQ/giphy.gif?cid=ecf05e47p343v73g80bmy7dkoyvgf9x8399rgkoz2bh58x1k&rid=giphy.gif&ct=g">
 </div> 
 
-- 🔭 Hoje eu trabalho com HelpDesk
-- 🌱 Estudo Dart e Flutter
-- 🎓 Faço faculdade de Sistemas de Informação (2° semestre)
+- 🔭 Hoje eu trabalho com HelpDesk (PEDI DEMISSÃO)
+- 🌱 Estudo REACT
+- 🎓 Faço faculdade de Sistemas de Informação (2° semestre) (LARGUEI A FACULDADE)
 - 🐍 Comecei com Python em 2018
-- 🌎 Aprendo Javascript na faculdade
-- 💻 Mas curto programação mobile
+- 🌎 Aprendo Javascript na faculdade (APRENDEO SOZINHO AGORA RSRS)
+- 💻 Quero aprender cada vez mais Blockchain e web 3.0
 
 ##
 
