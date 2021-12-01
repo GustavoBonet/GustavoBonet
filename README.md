@@ -19,8 +19,6 @@
   <img align="center" alt="Bonet-Py" height="30" width="40" src="https://cdn.svgporn.com/logos/python.svg">
   <img align="center" alt="Bonet-Dart" height="30" width="40" src="https://cdn.svgporn.com/logos/dart.svg">
   <img align="center" alt="Bonet-Js" height="30" width="40" src="https://cdn.svgporn.com/logos/javascript.svg">
-  <img align="center" alt="Bonet-Linux" height="30" width="40" src="https://cdn.svgporn.com/logos/html5.svg">
-  <img align="center" alt="Bonet-JAVA" height="30" width="40" src="https://cdn.svgporn.com/logos/css3.svg">
 </div> 
 
 ##
