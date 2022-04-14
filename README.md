@@ -3,10 +3,10 @@
   <img align="right" alt="gif-bart" height="150" src="https://media.giphy.com/media/D9ujqMZoTtjAQ/giphy.gif?cid=ecf05e47p343v73g80bmy7dkoyvgf9x8399rgkoz2bh58x1k&rid=giphy.gif&ct=g">
 </div> 
 
-- 🔭 Eu tenho uma empresa de investimentos
+- 🔭 Estudando UX Design
 - 🎓 Faço faculdade de análise e desenvolvimento de sistemas
 - 🐍 Comecei com Python em 2018
-- 🌎 Uso as linguagens PHP e PYTHON 
+- 🌎 Uso as linguagens Dart e PYTHON 
 - 💻 Quero aprender cada vez mais Blockchain e web 3.0
 
 ##
